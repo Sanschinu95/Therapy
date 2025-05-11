@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain_google_genai
+python-dotenv
+pydantic
+fastapi
+pyttsx3
+speech_recognition
+pygame
